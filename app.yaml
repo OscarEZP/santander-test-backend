@@ -1,0 +1,4 @@
+runtime: nodejs18
+service: santander-test
+beta_settings:
+  cloud_sql_instances: byebye-travel-dev:europe-west1:santander-test=tcp:3306
